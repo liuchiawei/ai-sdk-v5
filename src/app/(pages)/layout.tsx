@@ -1,4 +1,4 @@
-import BackToHome from "@/app/components/backToHome";
+import BackToHome from "@/components/backToHome";
 
 export default function PagesLayout({
   children,
